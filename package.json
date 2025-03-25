@@ -1,0 +1,23 @@
+{
+  "name": "software-dev-course-unicode",
+  "version": "1.0.0",
+  "main": "unicode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevolution82/software-dev-course-unicode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevolution82/software-dev-course-unicode/issues"
+  },
+  "homepage": "https://github.com/kevolution82/software-dev-course-unicode#readme",
+  "description": "",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
