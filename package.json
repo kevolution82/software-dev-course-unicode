@@ -16,8 +16,8 @@
     "url": "https://github.com/kevolution82/software-dev-course-unicode/issues"
   },
   "homepage": "https://github.com/kevolution82/software-dev-course-unicode#readme",
-  "description": "",
   "dependencies": {
     "readline-sync": "^1.4.10"
-  }
+  },
+  "description": ""
 }
